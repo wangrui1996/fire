@@ -1,4 +1,4 @@
 model
 cmake-build-debug
 .idea
-*.mp4
+output.mp4
